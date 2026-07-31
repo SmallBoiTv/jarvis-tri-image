@@ -7,12 +7,12 @@
                           "hunyuan-image-3",
                           "sd3.5"
                       ],
-    "updatedAt":  1785525765961,
+    "updatedAt":  1785526330385,
     "description":  "Tri-image composite with 6 backing image models",
     "baseModel":  "cosmos3-super",
     "modelId":  "jarvis-tri-image",
     "samplesCount":  0,
     "name":  "Jarvis Tri-Image",
     "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785525765961
+    "lastSync":  1785526330385
 }
