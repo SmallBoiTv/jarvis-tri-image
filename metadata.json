@@ -1,18 +1,18 @@
-﻿{
-    "backingModels":  [
-                          "cosmos3-super",
-                          "flux.2",
-                          "ideogram-4",
-                          "qwen-image-max",
-                          "hunyuan-image-3",
-                          "sd3.5"
-                      ],
-    "updatedAt":  1785526330385,
-    "description":  "Tri-image composite with 6 backing image models",
-    "baseModel":  "cosmos3-super",
-    "modelId":  "jarvis-tri-image",
-    "samplesCount":  0,
-    "name":  "Jarvis Tri-Image",
-    "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785526330385
+{
+  "modelId": "jarvis-tri-image",
+  "name": "Jarvis Tri-Image",
+  "description": "Tri-image composite with 6 backing image models",
+  "baseModel": "cosmos3-super",
+  "backingModels": [
+    "cosmos3-super",
+    "flux.2",
+    "ideogram-4",
+    "qwen-image-max",
+    "hunyuan-image-3",
+    "sd3.5"
+  ],
+  "currentVersion": "jarvis-v1-1785600566650",
+  "lastSync": 1785600586270,
+  "samplesCount": 62,
+  "updatedAt": 1785600586270
 }
